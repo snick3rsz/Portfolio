@@ -1,0 +1,27 @@
+html {
+    font-family:"Cinzel",serif;
+    font-size: 1.5rem;
+    background-image:url("./Images/StormwindConcept.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+div {
+    margin: 5%;
+    padding: 15px;
+    color: darkorange;
+    font-weight:400;
+    width: 40%;
+}
+.section-left {
+    background-color:rgba(0, 0, 0, 0.65);
+  }
+.section-right {
+    background-color:rgba(0, 0, 0, 0.65);
+   }
+a {
+    color:#EDE944;
+    text-decoration: none;
+}
+footer {
+    text-align: right;
+}
